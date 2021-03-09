@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medaners</string>
+    <string name="food_name">Nama kuliner</string>
+    <string name="detail">Detail</string>
+    <string name="creator_name">Stephen Thajeb</string>
+    <string name="creator_email">A0020119@bangkit.academy</string>
+    <string name="btn_share">Share</string>
+</resources>
